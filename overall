@@ -1,0 +1,13 @@
+# 🍽 Recipe Finder
+
+A responsive Recipe Finder website built using:
+- HTML
+- CSS
+- JavaScript
+- MealDB API
+
+## Features
+- Search recipes
+- View recipe details
+- Responsive design
+- Popup modal display
